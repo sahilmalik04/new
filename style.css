@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(to right,rgb(0, 0, 0,0.7),rgba(0,0,0,0.8)), url(hsp.jpg);
+    background-size: cover;
+    color: white;
+}
+.frm table{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.table label{
+    cursor: pointer;
+}
+.btn{
+    width: 30%;
+}
+.time p{
+    text-align: center;
+}
+.time p:last-child{
+    color: rgb(130, 157, 245);
+    font-weight: bold;
+    font-size: 18px;
+}
